@@ -6,7 +6,7 @@ Como apaixonada por tecnologia e futura desenvolvedora, trago um conjunto de hab
 Atualmente, estou focado(a) em Front-end.
 
 ## 🚀 Sobre mim
-- 📍 Moro em: Florianópos/SC
+- 📍 Moro em: Florianópolis/SC
 - 🎓 Estudando: Análise e Desenvolvimento de Sistemas
 - 💼 Trabalho com: Suporte de TI 
 
